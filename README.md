@@ -1,4 +1,4 @@
-## General information
+##  General information
 
 The folder code has the detector code. \
 The folder models contains the trained models. \
